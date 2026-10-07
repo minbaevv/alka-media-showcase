@@ -14,6 +14,12 @@ with AI assistance.
 AlKa Media supports publishing news in Russian and Kyrgyz,
 organizing articles, searching content and moderating comments.
 
+## 📄 Project Presentation
+
+[View the AlKa Media presentation (PDF)](./AlKa_Media_Case_Study.pdf)
+
+---
+
 **Development period:** 14 August–2 September 2026.
 
 🌐 **Website:** [alkamedia.kg](https://alkamedia.kg)
